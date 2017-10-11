@@ -18,9 +18,15 @@
 			</ul>
 			
 		<div id="main">
-			
-			
-			
+			<h1>Fotopagina</h1>
+			<img class="stockphoto" src="./img/stock1.jpg" alt="foto1"/>
+			<img class="stockphoto" src="./img/stock2.jpg" alt="foto2"/>
+			<img class="stockphoto" src="./img/stock3.jpg" alt="foto3"/>
+			<img class="stockphoto" src="./img/stock4.jpg" alt="foto4"/>
+			<img class="stockphoto" src="./img/stock5.jpg" alt="foto5"/>
+			<img class="stockphoto" src="./img/stock6.jpg" alt="foto6"/>
+			<img class="stockphoto" src="./img/stock7.jpg" alt="foto7"/>
+			<img class="stockphoto" src="./img/stock8.jpg" alt="foto8"/>
 		</div>
 			<footer>
 				<div id="footer1">

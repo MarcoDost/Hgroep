@@ -22,7 +22,6 @@ ul#header {
     overflow: hidden;
     background-color: #2196f3;
 }
-
 li.header {
     float: left;
 }
@@ -40,7 +39,6 @@ li.header a {
 li a.active{
     background-color: #2196f3;
 }
-
 li a:hover {
     background-color: #0b6dd6;
 }
@@ -77,4 +75,9 @@ footer{
 }
 .footer a:hover{
   background-color: #2196f3;
+}
+.stockphoto{
+	width: 50%;
+	height: 50%;
+	float: left;
 }
