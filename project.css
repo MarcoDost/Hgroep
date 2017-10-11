@@ -48,7 +48,7 @@ li#right{
   float: right;
 }
 nav img{
-  position: fixed;
+  position: absolute;
   margin-left: 484px;
 }
 footer{
@@ -67,4 +67,14 @@ footer{
   padding-bottom: 4px;
   clear: left;
   background-color: green;
+}
+.footer{
+  list-style: none;
+}
+.footer a{
+  color: white;
+  text-decoration: none;
+}
+.footer a:hover{
+  background-color: #2196f3;
 }
