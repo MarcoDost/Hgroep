@@ -17,9 +17,49 @@
 				<li id="right" class="header"><a href="search.php">search</a></li>
 			</ul>
 			
-			<div id="main">
-				hoi
-			<div>
+		<div id="main">
+			
+			
+			
+		</div>
+			<footer>
+				<div id="footer1">
+					<h2>Locaties</h2>
+				
+					<ul class="footer">
+						<li><a href="locaties.php">Locaties</a></li>
+						<li><a href="opleidingen.php">Opleidingen</a></li>
+						<li><a href="opendagen.php">Open dagen</a></li>
+					</ul>
+				</div>
+			<div id="footer2">
+					<h2>Locaties</h2>
+					<ul class="footer">
+						<li><a href="locaties.php">Locaties</a></li>
+						<li><a href="opleidingen.php">Opleidingen</a></li>
+						<li><a href="opendagen.php">Open dagen</a></li>
+					</ul>
+			</div>
+				<div id="footer3">
+					<h2>Locaties</h2>
+					<ul class="footer">
+						<li><a href="locaties.php">Locaties</a></li>
+						<li><a href="opleidingen.php">Opleidingen</a></li>
+						<li><a href="opendagen.php">Open dagen</a></li>
+					</ul>
+			</div>
+				<div id="footer4">
+					<h2>Locaties</h2>
+					<ul class="footer">
+						<li><a href="locaties.php">Locaties</a></li>
+						<li><a href="opleidingen.php">Opleidingen</a></li>
+						<li><a href="opendagen.php">Open dagen</a></li>
+					</ul>
+				</div>
+			<div id="below">
+				<p>Made by je boy Yon</p>
+			</div>
+			</footer>
 		</div>
 	</body>
 </html>
