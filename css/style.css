@@ -12,3 +12,29 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.icon-block:hover{
+	background-color: #f5f5f5;
+}
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+p{
+	text-align: justify;
+}
+.main{
+	margin: auto;
+	width: 800px;
+	height: 110%;
+	padding: 50px;
+	background-color: #f5f5f5;
+}
+h1{
+	margin: 0;
+}
+.form{
+	padding-top: 10px;
+}
+.input-field{
+	width: 100px;
+	height: 100px;
+}
