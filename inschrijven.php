@@ -261,7 +261,7 @@
 
             <div class="footer-copyright">
                 <div class="container">
-                    Made by <a class="blue-text text-lighten-3" href="https://sidoi.nl/">Sidoi</a>
+                    Made by <a class="blue-text text-lighten-3" href="https://sidoi.nl/">Knymams</a>
                 </div>
             </div>
         </footer>
