@@ -155,8 +155,8 @@
                         <label for="test1">Vrouw</label>
                     </p>
                     <p>
-                        <input name="gender" type="radio" id="test1" value="man"/>
-                        <label for="test1">Man</label>
+                        <input name="gender" type="radio" id="test2" value="man"/>
+                        <label for="test2">Man</label>
                     </p>
                       <span class = "error">* <?php echo $genderErr;?></span>
                    </td>
@@ -166,12 +166,12 @@
                    <td>Opleiding:</td>
                    <td>
                     <p>
-                        <input name="subject[]" type="radio" id="test1" value="Informatica" checked />
-                        <label for="test1">Informatica</label>
+                        <input name="subject[]" type="radio" id="test3" value="Informatica" checked />
+                        <label for="test3">Informatica</label>
                     </p>
                     <p>
-                        <input name="subject[]" type="radio" id="test1" value="Werktuigbouwkunde"/>
-                        <label for="test1">Werktuigbouwkunde</label>
+                        <input name="subject[]" type="radio" id="test4" value="Werktuigbouwkunde"/>
+                        <label for="test4">Werktuigbouwkunde</label>
                     </p>
                     <br>
                    </td>
