@@ -164,8 +164,8 @@
 									<input name="gender" type="radio" id="test2" value="man"/>
 									<label for="test2">Man</label>
 								</p>
-								<span class = "error">* <?php echo $genderErr;?></span>
-								<br><br>Opleiding:
+								<span class = "error"><?php echo $genderErr;?></span>
+								<br><br>* Opleiding:
 								<p>
 									<input name="subject[]" type="radio" id="test3" value="Informatica" checked />
 									<label for="test3">Informatica</label>
