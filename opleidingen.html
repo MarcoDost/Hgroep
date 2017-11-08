@@ -33,7 +33,7 @@
 				<li><a href="index.html">Home</a></li>
 				<li><a href="locaties.html">Locaties</a></li>
 				<li><a href="opleidingen.html">Opleidingen</a></li>
-				<li><a href="inschrijven.html">Inschrijven</a></li>
+				<li><a href="inschrijven.php">Inschrijven</a></li>
 				<li><a href="schoolinfo.html">Over de school</a></li>
 				<li><a href="fotos.html">Foto's</a></li>
 			</ul>
