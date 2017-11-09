@@ -227,6 +227,8 @@
 							<h5 class="white-text">Over Zwolle hogeschool</h5>
 							<ul>
 								<li><a class="white-text" href="schoolinfo.html">Meer informatie</a></li>
+								<li><a class="white-text" href="https://sidoi.nl/school/zwollehogeschool/rss.php">RSS Feed</a></li>
+								<li><a class="white-text" href="en/index.html">English / Engels</a></li>
 							</ul>
 						</div>
 
